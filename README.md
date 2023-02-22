@@ -1,2 +1,9 @@
 # 100-DAYS-OF-RTL
-This Repo contains Codes of RTLs for implementation of various circuit designs using Verilog in Xilinx ISE 14.7 and sometimes Modelsim tools
+HELLO VLSI ENTHUSIASTS, WELCOME TO MY 100DAYSOFRTL REPO
+
+My Name is Jayaram G, I mostly use Xilinx ISE 14.7 Design Suite and sometimes Modelsim software for the simulation of RTL Codes.
+
+Here is the list of Day wise RTL Codes:
+
+Day-1 : Types of gates(Three Modelling styles),
+: Half Adder(Three Modelling styles).
