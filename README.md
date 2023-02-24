@@ -10,3 +10,5 @@ Day-1 : Half Adder(Three Modelling styles).
 Day-2 : Full Adder(Three Modelling styles).
 
 Day-3 : Half Subtractor(Three Modelling styles).
+
+Day-4 : Full Subtractor(Three Modelling styles).
