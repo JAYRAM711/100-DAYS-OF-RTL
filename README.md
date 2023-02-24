@@ -6,5 +6,7 @@ My Name is Jayaram G, I mostly use Xilinx ISE 14.7 Design Suite and sometimes Mo
 Here is the list of Day wise RTL Codes:
 
 Day-1 : Half Adder(Three Modelling styles).
+
 Day-2 : Full Adder(Three Modelling styles).
+
 Day-3 : Half Subtractor(Three Modelling styles).
