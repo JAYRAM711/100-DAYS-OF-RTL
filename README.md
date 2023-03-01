@@ -17,4 +17,7 @@ Day-5 : MUX 8:1 (Three Modelling styles).
 
 Day-6 : DEMUX 1:8 (Three Modelling styles).
 
-Day-7 : ENCODER (Three Modelling styles).
+Day-7 : ENCODER 8:3 (Three Modelling styles).
+
+Day-7 : DECODER 3:8 (Three Modelling styles).
+
