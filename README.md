@@ -16,3 +16,5 @@ Day-4 : Full Subtractor(Three Modelling styles).
 Day-5 : MUX 8:1 (Three Modelling styles).
 
 Day-6 : DEMUX 1:8 (Three Modelling styles).
+
+Day-7 : ENCODER (Three Modelling styles).
