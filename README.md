@@ -19,5 +19,9 @@ Day-6 : DEMUX 1:8 (Three Modelling styles).
 
 Day-7 : ENCODER 8:3 (Three Modelling styles).
 
-Day-7 : DECODER 3:8 (Three Modelling styles).
+Day-8 : DECODER 3:8 (Three Modelling styles).
+
+Day-9 : CLOCK DIVIDER BY 2 POWERS (Behavioural Modelling).
+
+Day-10 : CLOCK DIVIDER BY 3 (Behavioural Modelling).
 
