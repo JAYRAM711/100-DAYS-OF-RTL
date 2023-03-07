@@ -26,3 +26,5 @@ Day-9 : CLOCK DIVIDER BY 2 POWERS (Behavioural Modelling).
 Day-10 : CLOCK DIVIDER BY 3 (Behavioural Modelling).
 
 Day-11 : RIPPLE CARRY ADDER (Structural Modelling).
+
+Day-12 : 8-BIT ALU [ARITHMETIC & LOGICAL UNIT] (Behavioural Modelling).
