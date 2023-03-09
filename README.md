@@ -30,3 +30,7 @@ Day-11 : RIPPLE CARRY ADDER (Structural Modelling).
 Day-12 : 8-BIT ALU [ARITHMETIC & LOGICAL UNIT] (Behavioral Modelling).
 
 DAY-13 : BCD TO 7-SEGMENT DISPLAY (Behavioral Modelling).
+
+DAY-14 : BINARY TO GRAY CONVERTER (Three Modelling styles).
+
+DAY-15 : GRAY TO BINARY CONVERTER (Three Modelling styles).
