@@ -33,6 +33,6 @@ DAY-13 : BCD TO 7-SEGMENT DISPLAY (Behavioral Modelling).
 
 DAY-14 : BINARY TO GRAY CONVERTER (Three Modelling styles).
 
-DAY-16 : 4-BIT MAGNITUDE COMPARATOR (Behavioral Modelling).
-
 DAY-15 : GRAY TO BINARY CONVERTER (Three Modelling styles).
+
+DAY-16 : 4-BIT MAGNITUDE COMPARATOR (Behavioral Modelling).
