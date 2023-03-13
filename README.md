@@ -40,3 +40,5 @@ DAY-16 : 4-BIT MAGNITUDE COMPARATOR (Behavioral Modelling).
 DAY-17 : 3-BIT EVEN & ODD PARITY GENERATOR (Dataflow Modelling).
 
 DAY-18 : 3-BIT EVEN & ODD PARITY CHECKERS (Dataflow Modelling).
+
+DAY-19 : 8:3 PRIORITY ENCODER (Behavioral Modelling).
