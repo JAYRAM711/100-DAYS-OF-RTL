@@ -44,3 +44,7 @@ DAY-18 : 3-BIT EVEN & ODD PARITY CHECKERS (Dataflow Modelling).
 DAY-19 : 8:3 PRIORITY ENCODER (Behavioral Modelling).
 
 DAY-20 : FLIPFLOPS (Behavioral Modelling).
+
+DAY-21 : SISO [SERIAL-IN SERIAL-OUT] SHIFT REGISTERS (Behavioral & Structural Modelling).
+
+DAY-22 : SIPO [SERIAL-IN SPARALLEL-OUT] SHIFT REGISTERS (Behavioral & Structural Modelling).
