@@ -45,6 +45,8 @@ DAY-19 : 8:3 PRIORITY ENCODER (Behavioral Modelling).
 
 DAY-20 : FLIPFLOPS (Behavioral Modelling).
 
-DAY-21 : SISO [SERIAL-IN SERIAL-OUT] SHIFT REGISTERS (Behavioral & Structural Modelling).
+DAY-21 : SISO [SERIAL-INPUT SERIAL-OUTPUT] SHIFT REGISTERS (Behavioral & Structural Modelling).
 
-DAY-22 : SIPO [SERIAL-IN SPARALLEL-OUT] SHIFT REGISTERS (Behavioral & Structural Modelling).
+DAY-22 : SIPO [SERIAL-INPUT PARALLEL-OUTPUT] SHIFT REGISTERS (Behavioral & Structural Modelling).
+
+DAY-23 : PIPO [PARALLEL-INPUT PARALLEL-OUTPUT] SHIFT REGISTERS (Behavioral & Structural Modelling).
