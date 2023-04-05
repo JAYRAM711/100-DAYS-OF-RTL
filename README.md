@@ -62,3 +62,7 @@ DAY-27 : 4-BIT ASYNCHROUNOUS(RIPPLE) UP COUNTER (Structural Modelling).
 DAY-28 : 4-BIT ASYNCHROUNOUS(RIPPLE) UP-DOWN COUNTER (Structural Modelling).
 
 DAY-29 : 3-BIT SYNCHROUNOUS UP COUNTER (Structural Modelling).
+
+DAY-30 : 3-BIT SYNCHROUNOUS UP-DOWN COUNTER (Structural Modelling).
+
+DAY-31 : RING COUNTER (Behavioral Modelling).
