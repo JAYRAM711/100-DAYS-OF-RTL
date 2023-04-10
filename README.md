@@ -69,4 +69,7 @@ DAY-31 : RING COUNTER (Behavioral Modelling)
          & JOHNSON COUNTER (Behavioral Modelling).
 
 DAY-32 : 1010 SEQUENCE DETECTOR USING MOORE FSM 
-         [OVERLAPPING & NON-OVERLAPPING TECHNIQUES] (Behavioral Modelling)
+         [OVERLAPPING & NON-OVERLAPPING TECHNIQUES] (Behavioral Modelling).
+        
+DAY-33 : 1010 SEQUENCE DETECTOR USING MEALY FSM 
+         [OVERLAPPING & NON-OVERLAPPING TECHNIQUES] (Behavioral Modelling).
