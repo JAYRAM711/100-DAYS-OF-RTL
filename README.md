@@ -67,3 +67,6 @@ DAY-30 : 3-BIT SYNCHROUNOUS UP-DOWN COUNTER (Structural Modelling).
 
 DAY-31 : RING COUNTER (Behavioral Modelling)
          & JOHNSON COUNTER (Behavioral Modelling).
+
+DAY-32 : 1010 SEQUENCE DETECTOR USING MOORE FSM 
+         [OVERLAPPING & NON-OVERLAPPING TECHNIQUES] (Behavioral Modelling)
