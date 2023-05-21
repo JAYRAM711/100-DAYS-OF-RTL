@@ -2,6 +2,7 @@
 HELLO VLSI ENTHUSIASTS, WELCOME TO MY 100DAYSOFRTL REPO
 
 My Name is Jayaram G, I mostly use Xilinx ISE 14.7 Design Suite and sometimes Modelsim software for the simulation of RTL Codes.
+-----------------------------------------------------------------------------------------------------------
 
 Here is the list of Day wise RTL Codes:
 
@@ -74,9 +75,13 @@ DAY-32 : 1010 SEQUENCE DETECTOR USING MOORE FSM
 DAY-33 : 1010 SEQUENCE DETECTOR USING MEALY FSM 
          [OVERLAPPING & NON-OVERLAPPING TECHNIQUES] (Behavioral Modelling).
 
-#FSM-BASED-VERILOG-MINI-PROJECTS
+-----------------------------------------------------------------------------------------------------------
+# FSM-BASED-VERILOG-MINI-PROJECTS
+
 DAY-34 : VERILOG MINI PROJECT_1 : DESIGNING A VENDING MACHINE WITH CHANGE MECHANISM 
 
 DAY-35 : VERILOG MINI PROJECT_2 : DESIGNING AN AUTOMATIC WASHING MACHINE
 
 DAY-36 : VERILOG MINI PROJECT_3 : DESIGNING A TRAFFIC LIGHT CONTROLLER SYSTEM FOR T-INTERSECTION
+
+-----------------------------------------------------------------------------------------------------------
