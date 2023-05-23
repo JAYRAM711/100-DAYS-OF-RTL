@@ -1,7 +1,9 @@
 # 100-DAYS-OF-RTL
+
 HELLO VLSI ENTHUSIASTS, WELCOME TO MY 100DAYSOFRTL REPO
 
-My Name is Jayaram G, I mostly use Xilinx ISE 14.7 Design Suite and sometimes Modelsim software for the simulation of RTL Codes.
+My Name is Jayaram G, I mostly use Xilinx ISE 14.7 Design Suite for the simulation of RTL Codes.
+
 -----------------------------------------------------------------------------------------------------------
 
 Here is the list of Day wise RTL Codes:
@@ -83,5 +85,7 @@ DAY-34 : VERILOG MINI PROJECT_1 : DESIGNING A VENDING MACHINE WITH CHANGE MECHAN
 DAY-35 : VERILOG MINI PROJECT_2 : DESIGNING AN AUTOMATIC WASHING MACHINE
 
 DAY-36 : VERILOG MINI PROJECT_3 : DESIGNING A TRAFFIC LIGHT CONTROLLER SYSTEM FOR T-INTERSECTION
+
+VERILOG MINI PROJECT_4 : DESIGNING A CAR PARKING SYSTEM WITH PARKING SPACE MANAGEMENT
 
 -----------------------------------------------------------------------------------------------------------
