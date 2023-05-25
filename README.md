@@ -89,3 +89,5 @@ DAY-36 : VERILOG MINI PROJECT_3 : DESIGNING A TRAFFIC LIGHT CONTROLLER SYSTEM FO
 DAY-37 : VERILOG MINI PROJECT_4 : DESIGNING A CAR PARKING SYSTEM WITH PARKING SPACE MANAGEMENT
 
 -----------------------------------------------------------------------------------------------------------
+
+DAY-38 : SINGLE PORT AND DUAL PORT RAM & ROM (Behavioral Modelling).
