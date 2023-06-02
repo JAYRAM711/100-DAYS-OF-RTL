@@ -91,3 +91,5 @@ DAY-37 : VERILOG MINI PROJECT_4 : DESIGNING A CAR PARKING SYSTEM WITH PARKING SP
 -----------------------------------------------------------------------------------------------------------
 
 DAY-38 : SINGLE PORT AND DUAL PORT RAM & ROM (Behavioral Modelling).
+
+DAY-39 : 8-BIT VEDIC MULTIPLIER.
