@@ -8,7 +8,7 @@ My Name is Jayaram G, I mostly use Xilinx ISE 14.7 Design Suite for the simulati
 
 Here is the list of Day wise RTL Codes:
 
-Day-1 : HALF ADDER (Three Modelling styles).
+`Day-1` : HALF ADDER (Three Modelling styles).
 
 Day-2 : FULL ADDER (Three Modelling styles).
 
@@ -93,3 +93,5 @@ DAY-37 : VERILOG MINI PROJECT_4 : DESIGNING A CAR PARKING SYSTEM WITH PARKING SP
 DAY-38 : SINGLE PORT AND DUAL PORT RAM & ROM (Behavioral Modelling).
 
 DAY-39 : 8-BIT VEDIC MULTIPLIER (Structural Modelling).
+
+DAY-40 : 8-BIT BARREL SHIFTER (Behavioral Modelling).
