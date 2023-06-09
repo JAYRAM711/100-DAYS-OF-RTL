@@ -97,3 +97,5 @@ Here is the list of Day wise RTL Codes:
 `DAY-40` : 8-BIT BARREL SHIFTER (Behavioral Modelling).
 
 `DAY-41` : PWM SIGNAL GENERATOR.
+
+`DAY-42` : POSEDGE & NEGEDGE DETECTOR.
