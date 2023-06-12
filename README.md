@@ -99,3 +99,5 @@ Here is the list of Day wise RTL Codes:
 `DAY-41` : PWM SIGNAL GENERATOR.
 
 `DAY-42` : POSEDGE & NEGEDGE DETECTOR.
+
+`DAY-43` : GCD CALCULATOR FOR 2 N-BIT NUMBERS (Behavioral Modelling).
