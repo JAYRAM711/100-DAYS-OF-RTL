@@ -102,4 +102,9 @@ Here is the list of Day wise RTL Codes:
 
 `DAY-43` : GCD CALCULATOR FOR 2 N-BIT NUMBERS (Behavioral Modelling).
 
+-----------------------------------------------------------------------------------------------------------
+# FPGA-BASED-IMPLEMENTATIONS
+
 `DAY-44` : IMPLEMENTATION OF BCD TO 7-SEGMENT DISPLAY ON FPGA.
+
+-----------------------------------------------------------------------------------------------------------
