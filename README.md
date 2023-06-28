@@ -107,4 +107,6 @@ Here is the list of Day wise RTL Codes:
 
 `DAY-44` : IMPLEMENTATION OF BCD TO 7-SEGMENT DISPLAY ON FPGA.
 
+`DAY-45` : IMPLEMENTATION OF BLINGKING OF LED.
+
 -----------------------------------------------------------------------------------------------------------
