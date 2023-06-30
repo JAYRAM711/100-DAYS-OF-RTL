@@ -109,4 +109,6 @@ Here is the list of Day wise RTL Codes:
 
 `DAY-45` : IMPLEMENTATION OF BLINGKING OF LED.
 
+`DAY-46` : PWM GENERATOR FOR LED BIGHTNESS MANAGEMENT.
+
 -----------------------------------------------------------------------------------------------------------
