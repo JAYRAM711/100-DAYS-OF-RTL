@@ -111,6 +111,6 @@ Here is the list of Day wise RTL Codes:
 
 `DAY-46` : PWM GENERATOR FOR LED BIGHTNESS MANAGEMENT.
 
-`DAY-47` : DEBOUNCING OF BUTTONS.
+`DAY-47` : DEBOUNCING OF BUTTONS USING FSM.
 
 -----------------------------------------------------------------------------------------------------------
